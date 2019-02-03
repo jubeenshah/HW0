@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# In Mac
+open https://google.com/
